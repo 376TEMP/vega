@@ -84,5 +84,5 @@ cd ../vega-runtime; npm link vega-dataflow
 cd ../vega; npm link vega-dataflow
 ```
 
-Once links have been setup, you can use `npm install` as usual to gather all
+Once links have been set up, you can use `npm install` as usual to gather all
 remaining dependencies.
